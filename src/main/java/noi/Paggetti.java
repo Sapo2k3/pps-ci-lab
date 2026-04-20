@@ -1,3 +1,5 @@
+package noi;
+
 public class Paggetti {
     private String name;
     private String surname;

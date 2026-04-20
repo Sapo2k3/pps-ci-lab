@@ -1,3 +1,5 @@
+package noi;
+
 public class Paso {
     private String nombre;
 

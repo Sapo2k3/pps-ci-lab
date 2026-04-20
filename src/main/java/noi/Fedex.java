@@ -1,3 +1,5 @@
+package noi;
+
 public class Fedex {
     private final String name;
     private final String surname;
